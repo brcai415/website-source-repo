@@ -12,5 +12,5 @@ Computer Science and Business Applications
 # Experience
 
 ## **Implementation Software Engineer Intern at Joinedapp**  
-  - September 2019 - Present  
-  - Palo Alto
+  September 2019 - Present  
+  Palo Alto
