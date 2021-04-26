@@ -1,6 +1,4 @@
 ---
 title: Hi, I'm Brandon
-layout: default
+description: Welcome to my website!
 ---
-
-Welcome to my website
