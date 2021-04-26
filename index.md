@@ -9,7 +9,7 @@ description: Welcome to my website!
 Bachelors of Science  
 Computer Science and Business Applications   
 
-# Experience
+# **Experience**
 
 ## **Implementation Software Engineer Intern at Joinedapp**  
   September 2019 - Present  
