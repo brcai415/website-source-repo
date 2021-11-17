@@ -32,7 +32,7 @@ class Home extends Component {
                         <div className="contact-bar">
                                 <a
                                     className="contact-bar"
-                                    href="https://www.linkedin.com/in/brandon-cai-00b935190/"
+                                    href="https://www.linkedin.com/in/brcai/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
